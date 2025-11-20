@@ -13,6 +13,6 @@
 | Дата-аналитика для бизнеса (Продуктовая аналитика) | Яндекс Практикум | 2025 | [PDF](professional/Yandex_Product_Analytics_2025.pdf) |
 
 ## 🏅 Дополнительные сертификаты
-**Тренировки по алгоритмам 5.0**  
-Young && Yandex | 2024  
-[Просмотреть сертификат](certificates/Yandex_Algorithms_2024.pdf)
+**Тренировки по алгоритмам**  
+[Young && Yandex | 2024](certificates/Yandex_Algorithms_2024.pdf)
+[Young && Yandex | 2025](certificates/Yandex_Algorithms_2025.pdf)
