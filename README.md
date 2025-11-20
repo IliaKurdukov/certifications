@@ -15,4 +15,5 @@
 ## 🏅 Дополнительные сертификаты
 **Тренировки по алгоритмам**  
 [Young && Yandex | 2024](certificates/Yandex_Algorithms_2024.pdf)
+
 [Young && Yandex | 2025](certificates/Yandex_Algorithms_2025.pdf)
