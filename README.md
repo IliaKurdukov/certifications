@@ -16,5 +16,5 @@
 **Тренировки по алгоритмам от Young && Yandex** 
 | Сезон | Год | Документ |
 |-----------|-----|----------|
-| 5.0 | 2024 | [PDF]certificates/Yandex_Algorithms_2024.pdf) |
+| 5.0 | 2024 | [PDF](certificates/Yandex_Algorithms_2024.pdf) |
 | 8.0 | 2025 | [PDF](certificates/Yandex_Algorithms_2025.pdf) |
